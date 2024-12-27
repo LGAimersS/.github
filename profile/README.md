@@ -6,9 +6,11 @@ Welcome to the official README of **LGaimers**! We are a passionate team dedicat
 
 At LGaimers, our mission is to leverage deep learning technologies to create impactful solutions and contribute to the AI community.
 
-- [sunjun hwang](https://github.com/justinbrianhwang)
-- [huiseung shin](https://github.com/huiseung5571)
-- 
+- [Sunjun Hwang](https://github.com/justinbrianhwang)
+- [Huiseung Shin](https://github.com/huiseung5571)
+- [Daeun Yoon](https://github.com/yooondaeun)
+- [Woosung Lee](https://github.com/dntjddl3547)
+- []
 
 
 ## Projects
