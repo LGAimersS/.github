@@ -16,3 +16,12 @@ At LGaimers, our mission is to leverage deep learning technologies to create imp
 ## Projects
 
 (Details to be added later.)
+
+## Repositories
+- [Meeting notes](https://github.com/LGAimersS/Meeting-notes) : A repository for meeting minutes written by the scribe.
+- [Code](https://github.com/LGAimersS/code) : This is a repository for sharing code for the hackathon, and beyond that, if your code is useful for implementing AI, feel free to share it, but make sure to license it so you don't get in trouble.
+
+
+
+
+
