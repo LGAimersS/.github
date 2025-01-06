@@ -10,7 +10,7 @@ At LGaimers, our mission is to leverage deep learning technologies to create imp
 - [Huiseung Shin](https://github.com/huiseung5571)
 - [Daeun Yoon](https://github.com/yooondaeun)
 - [Woosung Lee](https://github.com/dntjddl3547)
-- []
+- [yejin Yoon](https://github.com/Y25DA)
 
 
 ## Projects
