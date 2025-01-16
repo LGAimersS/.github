@@ -1,6 +1,6 @@
-# LGaimers
+# LGaimersS
 
-Welcome to the official README of **LGaimers**! We are a passionate team dedicated to exploring and advancing the field of deep learning.
+Welcome to the official README of **LGaimersS**! We are a passionate team dedicated to exploring and advancing the field of deep learning.
 
 ## About Us
 
